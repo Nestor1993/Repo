@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8A3-883B
+
+ Directory of C:\Users\NESTOR\Desktop\GIT PROJECT
+
+03/04/2021  11:49 AM    <DIR>          .
+03/04/2021  11:49 AM    <DIR>          ..
+03/04/2021  11:49 AM                 0 pruebagit.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,163,629,056 bytes free
